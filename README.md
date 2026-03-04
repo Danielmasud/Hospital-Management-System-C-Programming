@@ -1,5 +1,4 @@
 🏥 Hospital Management System | C Programming
-Project Focus: Systems Programming & Data Structures
 
 📝 Project Overview
 
@@ -7,13 +6,13 @@ Developed a comprehensive management system for hospital operations using the C 
 
 🎯 Key Features & Implementation
 
-Data Management: Implemented CRUD (Create, Read, Update, Delete) operations for patient and doctor databases using Structs and Linked Lists.
+- Smart Data Management: Built a system to easily add, update, and delete patient and doctor records.
 
-File I/O: Integrated persistent storage by saving and loading records from external .txt or .dat files, ensuring data is preserved between sessions .
+- Persistent Storage (File I/O): Connected the program to external files so all data is saved on the computer even after closing the app.
 
-Memory Management: Utilized dynamic memory allocation (malloc, free) to optimize system resources and handle variable amounts of data.
+- Efficient Memory Management: Used malloc and free to ensure the program uses only the necessary memory, preventing resource waste.
 
-Search & Filter Algorithms: Developed efficient algorithms to search for patients by ID or medical condition and to filter doctors by specialty.
+- Search & Filter System: Developed fast algorithms to find patients by ID or filter doctors by their medical specialty
 
 ## Tools & Technologies
 - C
