@@ -8,8 +8,6 @@ Developed a comprehensive management system for hospital operations using the C 
 
 - Smart Data Management: Built a system to easily add, update, and delete patient and doctor records.
 
-- Persistent Storage (File I/O): Connected the program to external files so all data is saved on the computer even after closing the app.
-
 - Efficient Memory Management: Used malloc and free to ensure the program uses only the necessary memory, preventing resource waste.
 
 - Search & Filter System: Developed fast algorithms to find patients by ID or filter doctors by their medical specialty
