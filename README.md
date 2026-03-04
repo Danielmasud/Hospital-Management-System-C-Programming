@@ -14,6 +14,6 @@ Developed a comprehensive management system for hospital operations using the C 
 
 ## Tools & Technologies
 - C
-
+- Visual Studio
 ---
 **Course:** MATLAB  | **Institution:** Ruppin Academic Center
