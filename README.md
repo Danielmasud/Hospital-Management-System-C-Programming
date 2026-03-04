@@ -1,10 +1,10 @@
-🏥 Hospital Management System | C Programming
+# 🏥 Hospital Management System | C Programming
 
-📝 Project Overview
+## Overview
 
 Developed a comprehensive management system for hospital operations using the C programming language. The system facilitates efficient handling of patient records, doctor schedules, and department data through a terminal-based interface.
 
-🎯 Key Features & Implementation
+## Key Features & Implementation
 
 - Smart Data Management: Built a system to easily add, update, and delete patient and doctor records.
 
