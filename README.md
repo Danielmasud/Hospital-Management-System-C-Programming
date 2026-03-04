@@ -15,6 +15,8 @@ Memory Management: Utilized dynamic memory allocation (malloc, free) to optimize
 
 Search & Filter Algorithms: Developed efficient algorithms to search for patients by ID or medical condition and to filter doctors by specialty.
 
-💻 Technical Stack
+## Tools & Technologies
+- C
 
-Language: C
+---
+**Course:** MATLAB  | **Institution:** Ruppin Academic Center
